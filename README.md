@@ -1,2 +1,2 @@
 # Full-Stack-Open-exercises
-My exercise submissions for the Full Stack Open course
+Repository for my exercises submissions and notes by the University of Helsinki
